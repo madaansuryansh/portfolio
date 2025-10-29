@@ -1,0 +1,3 @@
+The purpose of this project was to learn how to exhaustively testbench large state machine models using rtl and synthesis testbenches. This was accomplished by interfacing with the vga adapter on the DE1-SoC. 
+
+In this project, we first learned how to draw and use different colours on a vga monitor, and then moved to drawing a Bresenham circle and a reuleaux triangle. By the end of the project, more than 40 hours were spent testbenching our design.
